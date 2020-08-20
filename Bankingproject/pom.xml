@@ -3,6 +3,10 @@
   <groupId>com.cg.org</groupId>
   <artifactId>Bankingproject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+<properties>
+  <maven.compiler.target>1.8</maven.compiler.target>
+    <maven.compiler.source>1.8</maven.compiler.source>
+</properties>
     <dependencies>
   <!-- https://mvnrepository.com/artifact/junit/junit -->
 <dependency>
